@@ -1,0 +1,6 @@
+.idea/
+.nsmlignore
+test/
+test_submit/
+train/
+.DS_Store
